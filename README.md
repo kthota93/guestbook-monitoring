@@ -27,7 +27,7 @@ helm version
 Clone the repository:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/kthota93/guestbook-monitoring.git
 cd kubernetes-ts-guestbook/simple
 ```
 
